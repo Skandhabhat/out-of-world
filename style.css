@@ -1,0 +1,213 @@
+
+.a{
+background-image: url('https://img.freepik.com/free-vector/galaxy-particles-background_23-2148353503.jpg?size=626&ext=jpg&ga=GA1.1.2113030492.1720396800&semt=ais_user');
+background-attachment: fixed; background-repeat: no-repeat; background-size: cover;
+}
+
+.b{
+background-image: url('https://techx.pk/wp-content/uploads/2023/04/2D-alternate-reality-300x200.webp');
+    background-attachment: fixed; background-repeat: no-repeat; background-size: cover;
+}
+
+.c{
+background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQEwbScm-1LFXuIQTQ9jGUyzUyMG5N4sDckA&s');
+background-attachment: fixed; background-repeat: no-repeat; background-size: cover;
+}
+
+.d{
+    background-image: url('https://i.pinimg.com/736x/da/06/07/da06070e6610eed218c124b384d80587.jpg');
+    background-attachment: fixed; background-repeat: no-repeat; background-size: cover; 
+    }
+    
+.e{
+background-image: url('https://img.freepik.com/free-vector/realistic-colorful-galaxy-background_23-2148965681.jpg');
+background-attachment: fixed; background-repeat: no-repeat; background-size: cover;
+}
+
+.f{
+background-image: url('https://t4.ftcdn.net/jpg/02/63/13/19/360_F_263131939_YV0i6j7Gd1JghYiW2g6NIVXBgxk2YoQw.jpg');
+    background-attachment: fixed; background-repeat: no-repeat; background-size: cover;
+}
+
+.g{
+background-image: url('https://image.slidesdocs.com/responsive-images/background/galaxy-nature-blue-universe-mysterious-dark-powerpoint-background_d057db9bd1__960_540.jpg');
+    background-attachment: fixed; background-repeat: no-repeat; background-size: cover;
+}
+
+.h{
+background-image: url('https://wallpapers.com/images/hd/cartoon-solar-system-hd-k9qxjeyiiipbge4s.jpg');
+    background-attachment: fixed; background-repeat: no-repeat; background-size: cover;
+}
+
+.i{
+background-image: url('https://png.pngtree.com/background/20230606/original/pngtree-the-solar-system-with-many-planets-picture-image_2902185.jpg');
+    background-attachment: fixed; background-repeat: no-repeat; background-size: cover;
+}
+
+.j{
+background-image: url('https://images.unsplash.com/photo-1590907047706-ee9c08cf3189?fm=jpg&w=3000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHBsYW5ldHxlbnwwfHwwfHx8MA%3D%3D');
+    background-attachment: fixed; background-repeat: no-repeat; background-size: cover;
+}
+
+.k{
+background-image: url('https://i.pinimg.com/474x/06/08/67/0608673657cdea906b69d1e3f700c2b2.jpg');
+    background-attachment: fixed; background-repeat: no-repeat; background-size: cover;
+}
+
+.l{
+background-image: url('https://t3.ftcdn.net/jpg/03/99/28/86/360_F_399288660_98vHDHEsJj58oXQ099sP9zgSKIPk6Hk5.jpg');
+    background-attachment: fixed; background-repeat: no-repeat; background-size: cover;
+}
+
+.m{
+background-image: url('https://img.freepik.com/premium-photo/earth-wallpapers-iphone-android-best-high-definition-iphone-wallpapers-iphone-android-this-wallpaper-is-high-definition-has-great-quality-earth-wallpaper_492154-10250.jpg');
+    background-attachment: fixed; background-repeat: no-repeat; background-size: cover;
+}
+
+.n{
+background-image: url('https://i0.wp.com/www.3wallpapers.fr/wp-content/uploads/2023/03/wallpaper_iphone_earth_01-scaled.jpg?ssl=1');
+    background-attachment: fixed; background-repeat: no-repeat; background-size: cover;
+}
+
+.o{
+background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN-y4U4i6tOY3W9Ev2Rwm6oxqcminqDrF4EA&s');
+background-attachment: fixed; background-repeat: no-repeat; background-size: cover;
+}
+
+.p{
+background-image: url('https://img.freepik.com/free-photo/modern-background-with-lines_1361-3533.jpg');
+background-attachment: fixed; background-repeat: no-repeat; background-size: cover;
+}
+
+.q{
+    background-attachment: fixed; background-repeat: no-repeat; background-size: cover;
+color: black;
+background-image: url('https://static.vecteezy.com/system/resources/previews/022/823/528/non_2x/abstract-colorful-background-with-bokeh-defocused-lights-and-shadow-free-photo.jpg');
+}
+
+.z{
+    color: chocolate;
+    background-image: url('https://static.vecteezy.com/system/resources/thumbnails/030/812/309/small/dark-concrete-texture-background-photo.jpg');
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+    padding-left: 50px;    
+    }
+
+.img1{
+    width: 400px;
+    height: 450px;
+    padding-left: 150px;
+    }
+    
+    .img2{
+    width: 400px;
+    height: 450px;
+    padding-right : 50px;
+    padding-left: 150px;
+    align-items: end;
+    }
+    
+    .img3{
+    width: 900px;
+    height: 450px;
+    padding-left: 100px;
+    padding-right: 50px;
+    }
+    
+    .img4{
+    width: 900px;
+    height: 800px;
+    padding-left: 100px;
+    padding-right: 50px;
+    }
+    
+    .img5{
+    width: 500px;
+    height: 500px;
+    padding-left: 40px;
+    padding-right: 50px;
+    }
+
+h1:hover{
+border: 5px solid lightgray ;
+background-color: rgb(0, 0, 0);
+color: white;
+width: fit-content;
+text-align: center;
+}
+
+
+body{
+background-color: black;
+padding: 50px;
+}
+
+h1{
+color: rgb(0, 255, 255);
+font-family: 'Courier New', Courier, monospace;
+font-size: xx-large;
+text-shadow: 10px 10px 7px white;
+padding-left: 50px;
+}
+
+h2{
+color: rgb(243, 13, 193);
+font-family: 'Courier New', Courier, monospace;
+font-size: x-large;
+box-shadow: 10px 10px 5px 10px lightblue;
+width: fit-content;
+padding-left: 50px;
+}
+
+p{
+color: rgb(255, 174, 0);
+font-size: x-large;
+font-family: Arial, Helvetica, sans-serif;
+padding: 40px;
+text-align: justify;
+}
+
+a{
+font-size:x-large ;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+text-decoration: none;
+color: violet;
+padding-left: 50px;
+}
+
+ol{
+    font-size: large;
+}   
+ 
+li{
+    float: left;
+    list-style-type: none;
+    padding-left: 25px;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
